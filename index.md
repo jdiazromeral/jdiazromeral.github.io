@@ -27,8 +27,13 @@
 **Senior Export Manager** <br>
 @ [Soriana](https://www.soriana.com/) _(1998 - 2006)_ <br><br>
 
-## Languages
 
+## Projects
+**Django the Domain Driven Design way**<br>
+[Code on GitHub](https://github.com/jdiazromeral/django-ddd) | [PyPi package](https://pypi.org/project/Django-ddd/)
+<br><br>
+
+## Languages
 **Spanish**: Native  <br>
 **English**: Full professional proficiency
 <br><br>
