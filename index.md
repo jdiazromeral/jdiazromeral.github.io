@@ -39,7 +39,7 @@
 <br><br>
 
 ## Education
-**MSc Compunter Science Engineering** <br>
+**MSc Computer Science Engineering** <br>
 Distributed Systems and  AI<br>
 [UPM - Universidad Politécnica de Madrid](https://www.fi.upm.es/) - Madrid, Spain _(2008-2010)_ <br>
 
