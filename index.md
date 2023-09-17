@@ -3,15 +3,17 @@
 [LinkedIn](https://www.linkedin.com/in/jdiazromeral/)
 
 ## Experience 
+**Head of Engineering** <br>
+@ [Sesh](https://joinsesh.app/) _(Nov 2022 - Present)_
 
 **Technical Team Lead** <br>
-@ [Kado Networks](https://www.kadonetworks.com/) _(Jul 2021 - Present)_ <br><br>
-**Cofounder - Manager** <br>
-@ [Principia Magazine](https://principia.io/) _(Sep 2013 - Present)_ <br><br>
+@ [Kado Networks](https://www.kadonetworks.com/) _(Jul 2021 - Nov 2022)_ <br><br>
 **Technical Team Lead**<br>
 @ [Savana](https://savanamed.com/) _(Sep 2020 - Jul 2021)_ <br><br>
 **Senior Software Engineer** <br>
 @ [Fever](https://feverup.com/) _(Nov 2018 - Sep 2020)_ <br><br>
+**Cofounder - Manager** <br>
+@ [Principia Magazine](https://principia.io/) _(Sep 2013 - Present)_ <br><br>
 **Software Engineer - Manager** <br>
 @ [Sr.Brightside](http://srbrightside.com/) _(Jan 2014 - Nov 2018)_ <br><br>
 **Software Engineer** <br>
